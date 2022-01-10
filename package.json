@@ -1,0 +1,20 @@
+{
+  "name": "recursion-basic",
+  "version": "1.0.0",
+  "description": "Recursion Basic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clifford18/recursion-basic.git"
+  },
+  "author": "Clifford18 CJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clifford18/recursion-basic/issues"
+  },
+  "homepage": "https://github.com/Clifford18/recursion-basic#readme"
+}
